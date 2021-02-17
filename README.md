@@ -1,2 +1,2 @@
-# car-racing-game
-multiplayer game using javascript
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
